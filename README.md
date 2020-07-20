@@ -4,7 +4,7 @@
   color: red;
   }
 </style>
-<pre>                          Hello World..</pre>
+<pre style="color:red">                          Hello World..</pre>
 **maxhasan882/maxhasan882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
